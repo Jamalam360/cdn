@@ -1,0 +1,102 @@
+- type: embed
+
+  embeds:
+    - title: Welcome to Jamalam's Development Server
+      color: 0xFF0000
+
+      description: >
+        Welcome to Jamalam's Development Server, the official server for
+        support with and development of Jamalam's mods and other software.
+
+- type: rules
+
+  colors:
+    - 0xFF8C00
+    - 0xE1FF00
+    - 0x55FF00
+    - 0x00FF37
+    - 0x00FFC8
+    - 0x00AAFF
+    - 0x001EFF
+
+  rules:
+    Be Respectful: >
+      Treat everyone with respect. Absolutely no harassment, witch hunting, sexism, racism or hate speech will be tolerated.
+
+    Do Not Spam: >
+      No spam or self-promotion (server invites, advertisements etc) without permission from a staff member. This includes DMing fellow members.
+
+    Keep it Appropriate: >
+      No age-restricted or obscene content. This includes text, images or links featuring nudity, sex, hard violence or other disturbing graphic content.
+
+    Do Not Scam: >
+      Do not share any scam links, IP grabbers, etc.
+
+    Use English: >
+      Use English - we are not able to moderate other languages.
+
+    Report Issues: >
+      If you see something against the rules or something that makes you feel unsafe, let staff know. We want this server to be a welcoming space!
+
+    Respect Moderators: >
+      Moderators have the final say on what is against the rules - we can't put _everything_ in the rules. Respect their decision, and if you think they are abusing their power, contact another moderator via DMs.
+
+- type: embed
+
+  embeds:
+    - description: >
+        In the event of a raid, please ping <@1010973563626459227>.
+      color: 0x7300FF
+
+- type: embed
+
+  embeds:
+    - description: >
+        If you wish to use [Jamalam's Maven](https://maven.jamalam.tech), please contact <@478579885951156225>
+      color: 0xEC10DF
+
+- type: links
+  title: Useful Links
+  color: 0xFF00FF
+
+  links:
+    Personal GitHub: https://github.com/Jamalam360
+    JamCoreModding Github: https://github.com/JamCoreModding
+    Curseforge: https://www.curseforge.com/members/jamalam360/projects
+    Modrinth: https://modrinth.com/organization/jam-core
+    Maven: https://maven.jamalam.tech
+    Personal Website: https://jamalam.tech
+    Discord Invite: https://discord.jamalam.tech
+
+- type: roles
+  id: pronoun-roles
+
+  title: "Pronoun Roles"
+  description: "Click the button below to assign or remove any of the following pronoun roles so everyone knows how to refer to you."
+  template: "» {NAME}"
+
+  roles:
+    1018748062564360272:
+      description: he/him
+    1018748063927513138:
+      description: she/her
+    1018748065278066758:
+      description: they/them
+    1018748067035492413:
+      description: it/its
+    1018748068423807097:
+      description: no pronouns (use name)
+    1018748071091384360:
+      description: any pronouns
+    1018748074836897792:
+      description: ask for pronouns
+
+- type: embed
+
+  embeds:
+    - title: >
+        Support me!
+      description: >
+        You can support me through [Ko-Fi](https://ko-fi.com/jamalamdev) or by renting a server from BisectHosting using [my link and promo code](https://bisecthosting.com/jamalam). Thanks!
+    - image: 
+        url: https://www.bisecthosting.com/partners/custom-banners/e0cc6668-0d29-40ff-9820-4d4f5433198a.webp
